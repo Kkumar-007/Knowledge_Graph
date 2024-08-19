@@ -23,7 +23,6 @@ Knowledge graphs are valuable for various purposes:
 2. Community Detection: Identify clusters of related concepts.
 3. Connectedness Analysis: Explore connections between seemingly unrelated concepts.
 4. Graph Retrieval Augmented Generation (GRAG): Enhance interaction with the text using graphs for more profound queries compared to traditional Retrieval Augmented Generation (RAG).
----
 
 ## This project
 This project demonstrates how to generate a knowledge graph from a PDF document. The approach involves:
